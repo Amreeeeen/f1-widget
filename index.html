@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="manifest" href="manifest.json" />
+  <script src="sw.js"></script>
+  <link rel="circuits" href="circuits.json" />
+
+  <title>F1 Countdown Widget</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <header>
+        <h1>F1 Countdown</h1>
+        <div class="button-group top-right">
+          <button id="theme-toggle">Toggle Theme</button>
+          <button id="install-button" style="display: none;">Install App</button>
+        </div>
+      </header>
+      
+      
+
+  <main class="countdown-container">
+    <h2 id="race-title">Loading...</h2>
+    <p id="race-location"></p>
+    <p id="race-date"></p>
+    <p id="race-time"></p>
+    <img id="circuit-image" alt="Circuit Image" />
+    <div id="countdown">Countdown loading...</div>
+  
+   
+  </main>
+  
+  <script src="script.js"></script>
+</body>
+</html>
+<div id="a2hs-tip" style="display: none;">
+    <p>To install this app:</p>
+    <ul>
+      <li>On Android/Chrome: Tap ⋮ and choose “Add to Home Screen”</li>
+      <li>On iOS/Safari: Tap Share → “Add to Home Screen”</li>
+    </ul>
+  </div>
+  <button onclick="showInstallInstructions()">📲 Install App</button>

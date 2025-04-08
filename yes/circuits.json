@@ -1,0 +1,171 @@
+[
+    {
+      "name": "Australian Grand Prix",
+      "location": "Melbourne",
+      "date": "2025-03-16",
+      "time": "05:00:00Z",
+      "image": "melbourne.jpg"
+    },
+    {
+      "name": "Chinese Grand Prix",
+      "location": "Shanghai",
+      "date": "2025-03-23",
+      "time": "07:00:00Z",
+      "image": "shanghai.jpg"
+    },
+    {
+      "name": "Japanese Grand Prix",
+      "location": "Suzuka",
+      "date": "2025-04-06",
+      "time": "05:00:00Z",
+      "image": "suzuka.jpg"
+    },
+    {
+      "name": "Bahrain Grand Prix",
+      "location": "Sakhir",
+      "date": "2025-04-13",
+      "time": "15:00:00Z",
+      "image": "bahrain.jpg"
+    },
+    {
+      "name": "Saudi Arabian Grand Prix",
+      "location": "Jeddah",
+      "date": "2025-04-20",
+      "time": "17:00:00Z",
+      "image": "saudi.jpg"
+    },
+    {
+      "name": "Miami Grand Prix",
+      "location": "Miami",
+      "date": "2025-05-04",
+      "time": "20:30:00Z",
+      "image": "miami.jpg"
+    },
+    {
+      "name": "Emilia Romagna Grand Prix",
+      "location": "Imola",
+      "date": "2025-05-18",
+      "time": "13:00:00Z",
+      "image": "imola.jpg"
+    },
+    {
+      "name": "Monaco Grand Prix",
+      "location": "Monte Carlo",
+      "date": "2025-05-25",
+      "time": "13:00:00Z",
+      "image": "monaco.jpg"
+    },
+    {
+      "name": "Spanish Grand Prix",
+      "location": "Barcelona",
+      "date": "2025-06-01",
+      "time": "13:00:00Z",
+      "image": "spain.jpg"
+    },
+    {
+      "name": "Canadian Grand Prix",
+      "location": "Montreal",
+      "date": "2025-06-15",
+      "time": "18:00:00Z",
+      "image": "canada.jpg"
+    },
+    {
+      "name": "Austrian Grand Prix",
+      "location": "Spielberg",
+      "date": "2025-06-29",
+      "time": "13:00:00Z",
+      "image": "austria.jpg"
+    },
+    {
+      "name": "British Grand Prix",
+      "location": "Silverstone",
+      "date": "2025-07-06",
+      "time": "14:00:00Z",
+      "image": "silverstone.jpg"
+    },
+    {
+      "name": "Belgian Grand Prix",
+      "location": "Spa-Francorchamps",
+      "date": "2025-07-27",
+      "time": "13:00:00Z",
+      "image": "spa.jpg"
+    },
+    {
+      "name": "Hungarian Grand Prix",
+      "location": "Budapest",
+      "date": "2025-08-03",
+      "time": "13:00:00Z",
+      "image": "hungary.jpg"
+    },
+    {
+      "name": "Dutch Grand Prix",
+      "location": "Zandvoort",
+      "date": "2025-08-31",
+      "time": "13:00:00Z",
+      "image": "netherlands.jpg"
+    },
+    {
+      "name": "Italian Grand Prix",
+      "location": "Monza",
+      "date": "2025-09-07",
+      "time": "13:00:00Z",
+      "image": "monza.jpg"
+    },
+    {
+      "name": "Azerbaijan Grand Prix",
+      "location": "Baku",
+      "date": "2025-09-21",
+      "time": "11:00:00Z",
+      "image": "azerbaijan.jpg"
+    },
+    {
+      "name": "Singapore Grand Prix",
+      "location": "Singapore",
+      "date": "2025-10-05",
+      "time": "12:00:00Z",
+      "image": "singapore.jpg"
+    },
+    {
+      "name": "United States Grand Prix",
+      "location": "Austin",
+      "date": "2025-10-19",
+      "time": "19:00:00Z",
+      "image": "usa.jpg"
+    },
+    {
+      "name": "Mexican Grand Prix",
+      "location": "Mexico City",
+      "date": "2025-10-26",
+      "time": "21:00:00Z",
+      "image": "mexico.jpg"
+    },
+    {
+      "name": "Brazilian Grand Prix",
+      "location": "São Paulo",
+      "date": "2025-11-09",
+      "time": "17:00:00Z",
+      "image": "brazil.jpg"
+    },
+    {
+      "name": "Las Vegas Grand Prix",
+      "location": "Las Vegas",
+      "date": "2025-11-22",
+      "time": "06:00:00Z",
+      "image": "vegas.jpg"
+    },
+    {
+      "name": "Qatar Grand Prix",
+      "location": "Lusail",
+      "date": "2025-11-30",
+      "time": "15:00:00Z",
+      "image": "qatar.jpg"
+    },
+    {
+      "name": "Abu Dhabi Grand Prix",
+      "location": "Yas Marina",
+      "date": "2025-12-07",
+      "time": "13:00:00Z",
+      "image": "abudhabi.jpg"
+    }
+  ]
+  
