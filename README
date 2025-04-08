@@ -1,0 +1,27 @@
+# F1 Countdown Widget
+
+This is a Progressive Web App (PWA) that shows a live countdown to the next Formula 1 race. It displays race details like title, location, local time, and a circuit image. You can install it to your home screen or desktop just like a native app.
+
+## Features
+
+- Live countdown to the next F1 race
+- Displays race title, location, date, and time in your local timezone
+- Shows circuit image from local folder
+- Light and dark theme toggle
+- Installable as a PWA
+- Works offline after first load
+- Clean UI with Orbitron font and F1-themed styling
+
+## How to Use
+
+1. Open the app in a browser  
+   Example: `https://your-username.github.io/f1-widget`
+
+2. To install:
+   - On desktop: Click the "Install Widget" button (if available) or use the browser's install prompt
+   - On mobile: Use the browser menu and select "Add to Home Screen"
+
+3. Click "Toggle Theme" to switch between dark and light modes
+
+## Folder Structure
+
